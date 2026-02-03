@@ -1,0 +1,15 @@
+C:\Users\kais0023\source\repos\jackhkaiou\hw1_kais0023_jackhkaiou\hw1_kais00203_jackhkaiou\HW1\bin\Debug\net8.0\HW1.exe
+C:\Users\kais0023\source\repos\jackhkaiou\hw1_kais0023_jackhkaiou\hw1_kais00203_jackhkaiou\HW1\bin\Debug\net8.0\HW1.deps.json
+C:\Users\kais0023\source\repos\jackhkaiou\hw1_kais0023_jackhkaiou\hw1_kais00203_jackhkaiou\HW1\bin\Debug\net8.0\HW1.runtimeconfig.json
+C:\Users\kais0023\source\repos\jackhkaiou\hw1_kais0023_jackhkaiou\hw1_kais00203_jackhkaiou\HW1\bin\Debug\net8.0\HW1.dll
+C:\Users\kais0023\source\repos\jackhkaiou\hw1_kais0023_jackhkaiou\hw1_kais00203_jackhkaiou\HW1\bin\Debug\net8.0\HW1.pdb
+C:\Users\kais0023\source\repos\jackhkaiou\hw1_kais0023_jackhkaiou\hw1_kais00203_jackhkaiou\HW1\obj\Debug\net8.0\HW1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kais0023\source\repos\jackhkaiou\hw1_kais0023_jackhkaiou\hw1_kais00203_jackhkaiou\HW1\obj\Debug\net8.0\HW1.AssemblyInfoInputs.cache
+C:\Users\kais0023\source\repos\jackhkaiou\hw1_kais0023_jackhkaiou\hw1_kais00203_jackhkaiou\HW1\obj\Debug\net8.0\HW1.AssemblyInfo.cs
+C:\Users\kais0023\source\repos\jackhkaiou\hw1_kais0023_jackhkaiou\hw1_kais00203_jackhkaiou\HW1\obj\Debug\net8.0\HW1.csproj.CoreCompileInputs.cache
+C:\Users\kais0023\source\repos\jackhkaiou\hw1_kais0023_jackhkaiou\hw1_kais00203_jackhkaiou\HW1\obj\Debug\net8.0\HW1.sourcelink.json
+C:\Users\kais0023\source\repos\jackhkaiou\hw1_kais0023_jackhkaiou\hw1_kais00203_jackhkaiou\HW1\obj\Debug\net8.0\HW1.dll
+C:\Users\kais0023\source\repos\jackhkaiou\hw1_kais0023_jackhkaiou\hw1_kais00203_jackhkaiou\HW1\obj\Debug\net8.0\refint\HW1.dll
+C:\Users\kais0023\source\repos\jackhkaiou\hw1_kais0023_jackhkaiou\hw1_kais00203_jackhkaiou\HW1\obj\Debug\net8.0\HW1.pdb
+C:\Users\kais0023\source\repos\jackhkaiou\hw1_kais0023_jackhkaiou\hw1_kais00203_jackhkaiou\HW1\obj\Debug\net8.0\HW1.genruntimeconfig.cache
+C:\Users\kais0023\source\repos\jackhkaiou\hw1_kais0023_jackhkaiou\hw1_kais00203_jackhkaiou\HW1\obj\Debug\net8.0\ref\HW1.dll
